@@ -1,0 +1,18 @@
+diff --git a/a.c b/a.c
+index 7c9dd3d..ca6b52f 100644
+--- a/a.c
++++ b/a.c
+@@ -1,9 +1,11 @@
+ #include<stdio.h>
+ int main()
+ {
+-int a;
++int a,b;
+ printf("nhap vao 1 so: ");
+-scanf("%d",&a)
++scanf("%d",&a);
++printf("nhap vao 1 so: ");
++scanf("%d",&b)
+ printf("ban da nhap vao %d\n",a);
+ return 0;
+ }
