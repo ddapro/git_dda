@@ -1,0 +1,78 @@
+diff --git a/README.txt b/README.txt
+index a0da38e..8f36586 100644
+--- a/README.txt
++++ b/README.txt
+@@ -1,5 +1,5 @@
+ hello
+ tao file rong
+-them dong 6
+-them dong 5
++them dong 3
++them dong 4
+ 
+diff --git a/a/a.c b/a/a.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/hello.txt b/hello.txt
+new file mode 100644
+index 0000000..b6b5485
+--- /dev/null
++++ b/hello.txt
+@@ -0,0 +1,2 @@
++Hello DDA!
++tao ne may
+diff --git a/howareyou.txt b/howareyou.txt
+deleted file mode 100644
+index 9867211..0000000
+--- a/howareyou.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-fsdklfsjklkl
+-fdsfklkjfdljblk
+-sdgfgfgsdfa
+-dsadsads
+diff --git a/p.txt b/p.txt
+deleted file mode 100644
+index 29d8140..0000000
+--- a/p.txt
++++ /dev/null
+@@ -1,31 +0,0 @@
+-diff --git a/README.txt b/README.txt
+-index a0da38e..8f36586 100644
+---- a/README.txt
+-+++ b/README.txt
+-@@ -1,5 +1,5 @@
+- hello
+- tao file rong
+--them dong 6
+--them dong 5
+-+them dong 3
+-+them dong 4
+- 
+-diff --git a/a/a.c b/a/a.c
+-new file mode 100644
+-index 0000000..e69de29
+-diff --git a/hello.txt b/hello.txt
+-new file mode 100644
+-index 0000000..b6b5485
+---- /dev/null
+-+++ b/hello.txt
+-@@ -0,0 +1,2 @@
+-+Hello DDA!
+-+tao ne may
+-diff --git a/son.txt b/son.txt
+-new file mode 100644
+-index 0000000..15c139a
+---- /dev/null
+-+++ b/son.txt
+-@@ -0,0 +1,2 @@
+-+tao la dai ca
+-+
+diff --git a/son.txt b/son.txt
+new file mode 100644
+index 0000000..15c139a
+--- /dev/null
++++ b/son.txt
+@@ -0,0 +1,2 @@
++tao la dai ca
++
