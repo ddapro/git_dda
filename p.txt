@@ -1,0 +1,31 @@
+diff --git a/README.txt b/README.txt
+index a0da38e..8f36586 100644
+--- a/README.txt
++++ b/README.txt
+@@ -1,5 +1,5 @@
+ hello
+ tao file rong
+-them dong 6
+-them dong 5
++them dong 3
++them dong 4
+ 
+diff --git a/a/a.c b/a/a.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/hello.txt b/hello.txt
+new file mode 100644
+index 0000000..b6b5485
+--- /dev/null
++++ b/hello.txt
+@@ -0,0 +1,2 @@
++Hello DDA!
++tao ne may
+diff --git a/son.txt b/son.txt
+new file mode 100644
+index 0000000..15c139a
+--- /dev/null
++++ b/son.txt
+@@ -0,0 +1,2 @@
++tao la dai ca
++
